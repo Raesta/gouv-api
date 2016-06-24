@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Raesta/gouv-api/issues"
   },
-  "homepage": "https://github.com/Raesta/gouv-api#readme"
+  "homepage": "https://github.com/Raesta/gouv-api#readme",
+  "dependencies": {
+    "gouv-national-address-api": "0.0.1"
+  }
 }
