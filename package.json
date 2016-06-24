@@ -1,0 +1,19 @@
+{
+  "name": "gouv-api",
+  "version": "1.0.0",
+  "description": "gouv-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raesta/gouv-api.git"
+  },
+  "author": "Raesta <Contact@raesta.net> (Raesta)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Raesta/gouv-api/issues"
+  },
+  "homepage": "https://github.com/Raesta/gouv-api#readme"
+}
