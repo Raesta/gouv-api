@@ -1,6 +1,6 @@
 {
   "name": "gouv-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "gouv-api",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Raesta/gouv-api#readme",
   "dependencies": {
+    "gouv-geo-api": "^1.0.0",
     "gouv-national-address-api": "0.0.1"
   }
 }
