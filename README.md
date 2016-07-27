@@ -32,3 +32,5 @@ Gouv.nationalAddress.search({text: '1 avenue république'}, function(error, resu
 
 ### Supported API (Currently)
 - [gouv-national-address-api](https://github.com/Raesta/gouv-national-address-api)
+- [gouv-geo-api](https://github.com/Raesta/gouv-geo-api)
+- [gouv-openfisca-api](https://github.com/Raesta/gouv-openfisca-api)
