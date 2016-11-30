@@ -25,7 +25,18 @@ var Gouv = new GouvAPI();
 
 console.log(Gouv.version);
 
+// gouv-national-address-api
 Gouv.nationalAddress.search({text: '1 avenue république'}, function(error, result) {
+  console.log(error, result);
+});
+
+// gouv-geo-api
+Gouv.geo.getTowns({codePostal: 94000}, function(error, result) {
+  console.log(error, result);
+});
+
+// gouv-openfisca-api
+Gouv.openfisca.entities(null, function(error, result) {
   console.log(error, result);
 });
 ```
